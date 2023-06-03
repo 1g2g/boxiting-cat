@@ -1,3 +1,3 @@
 .
 I'm clone
-This is for merge
+This is new message for merge
